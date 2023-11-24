@@ -1,0 +1,19 @@
+{
+  "name": "pointclouds",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.3",
+    "potree": "^0.1.0",
+    "potree-core": "^2.0.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "three": "^0.158.0"
+  }
+}
